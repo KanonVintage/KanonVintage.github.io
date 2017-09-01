@@ -5,6 +5,7 @@
 	</head>
 	<body>
 		<h1>Leer esto no parece ser el mejor uso de tu tiempo</h1>
+		<pre>x2</pre>
 		<img src="images/sans.jpg" alt="Smiley face" height="42" width="42">
 	</body>
 </html>
